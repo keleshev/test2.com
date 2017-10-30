@@ -6,7 +6,7 @@
 * * *
 
 
-[Resume](resume.md) • [About](about.md) • [Stuff](stuff.md)
+<center>[Resume](resume.md) • [About](about.md) • [Stuff](stuff.md)</center>
 
 Hello world!
 
