@@ -3,6 +3,10 @@
 * [Resume](resume.md)
 * [About](about.md)
 
+* * *
+
+
+[Resume](resume.md) • [About](about.md) • [Stuff](stuff.md)
 
 Hello world!
 
