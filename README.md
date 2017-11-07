@@ -1,18 +1,6 @@
-# Header
-
 {% include header.md %}
 
-# Header end
 
-# test2.com
-
-* [Resume](resume.md)
-* [About](about.md)
-
-* * *
-
-
-<center>[Resume](resume.md) • [About](about.md) • [Stuff](stuff.md)</center>
 
 Hello world!
 
