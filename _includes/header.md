@@ -1,6 +1,6 @@
 # Header Title
 
-<center><a href='resume.md'>Resume</a> • <a href='about.md'>About</a> • <a href='stuff.md'>Stuff</a></center>
+<center><a href='resume.html'>Resume</a> • <a href='about.html'>About</a> • <a href='stuff.html'>Stuff</a></center>
 
 * * *
 
