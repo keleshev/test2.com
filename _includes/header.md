@@ -1,7 +1,6 @@
-# test2.com
+# Header Title
 
-* [Resume](resume.md)
-* [About](about.md)
+<center><a href='resume.md'>Resume</a> • <a href='about.md'>About</a> • <a href='stuff.md'>Stuff</a></center>
 
 * * *
 
