@@ -4,7 +4,7 @@
 site: 
 
 ```
-{{ site }}
+{{ site.pages }}
 ```
 
 Hello world!
