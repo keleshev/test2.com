@@ -1,6 +1,8 @@
 {% include header.md %}
 
-
+```
+{{ site }}
+```
 
 Hello world!
 
